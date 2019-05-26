@@ -2,6 +2,8 @@
 #define __AES_H__
 #include <inttypes.h>
 
+//CODE PROVIDED BY https://www.emsec.ruhr-uni-bochum.de/chair/home/
+
 typedef uint8_t u8;
 typedef uint16_t u16;
 typedef uint32_t u32;
