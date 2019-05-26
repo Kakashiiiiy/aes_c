@@ -6,6 +6,7 @@
 /** 
                 DO NOT CHANGE ANYTHING HERE!
 */
+//CODE PROVIDED BY https://www.emsec.ruhr-uni-bochum.de/chair/home/
 
 typedef struct chiphertex
 {
