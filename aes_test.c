@@ -141,6 +141,6 @@ int test()
                 return -1;
         } 
         printf("[+] passed all tests! :)\n");
-        //aesha();
+        aesha();
         return 0;
 }
